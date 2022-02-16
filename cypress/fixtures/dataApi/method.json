@@ -1,0 +1,7 @@
+{
+  "GET": "GET",
+  "SET": "SET",
+  "POST": "POST",
+  "PUT": "PUT",
+  "DELETE": "DELETE"
+}
